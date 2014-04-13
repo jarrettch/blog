@@ -1,15 +1,15 @@
-name: "hikari"
-description: "Fluid, responsive blog theme for Jekyll"
+name: "jarrett"
+description: "Development Blog"
 
-author: "John Doge"
+author: "Jarrett Harris"
 
-url: "http://m3xm.github.io"
-baseurl: "/hikari-for-Jekyll"
+url: "http://jarrettch.github.io/blog2"
+baseurl: "/blog2"
 
 markdown: rdiscount
 permalink: :year/:month/:title.html
 pygments: true
 
 # Google Analytics
-ga_domain: m3xm.github.io
-ga_tracking_id: UA-47727049-1
+# ga_domain: m3xm.github.io
+# ga_tracking_id: UA-47727049-1

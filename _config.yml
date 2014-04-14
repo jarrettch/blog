@@ -3,8 +3,8 @@ description: "Development Blog"
 
 author: "Jarrett Harris"
 
-url: "http://jarrettch.github.io/blog2"
-baseurl: "/blog2"
+url: "http://jarrettch.github.io/blog"
+baseurl: "/blog"
 
 markdown: rdiscount
 permalink: :year/:month/:title.html

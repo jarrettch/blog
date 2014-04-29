@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Commit to Commit"
+date:   2014-04-28 18:10:00
+---
 They can't all be home runs.
 
 This is my commit to commit.
